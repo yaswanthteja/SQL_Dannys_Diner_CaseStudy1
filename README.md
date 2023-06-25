@@ -1,3 +1,18 @@
+
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/yaswanthteja/SQL_Case_Studies#sql_case_studies)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/yaswanthteja?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yaswanthteja)
+
+
+# [8-Week SQL Challenge](https://8weeksqlchallenge.com) <img src="https://s3.amazonaws.com/thinkific-import/357412/n0nS0vA3RmOtzsH99jyf_Data_With_Danny_Round_Logo_png" align="right" width="120" />
+
+> This repository contains all of my code submissions for the **#8WeekSQLChallenge**! 
+> 
+> All case study's requirements and resources are available on the challenge [website](https://8weeksqlchallenge.com).
+
+
+
 # 🍜 Case Study #1: Danny's Diner 
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
